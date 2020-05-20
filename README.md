@@ -1,5 +1,6 @@
 # figury_szachowe
 projekt: Szachy-rekurencyjne ustawianie figur na planszy
+data: 13.12.2018
     
     Opis programu: 
     W argumentach wywołania programu zostaje przekazana nazwa pliku teskstowego,
