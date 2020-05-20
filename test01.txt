@@ -1,0 +1,20 @@
+Plansza:
+szerokosc:
+3
+wysokosc:
+5
+Figury:
+krol:
+0
+hetman:
+2
+wieza:
+0
+pionek czarny:
+0
+pionek bialy:
+0
+goniec:
+1
+skoczek:
+1
